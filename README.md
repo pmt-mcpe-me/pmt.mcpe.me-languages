@@ -8,7 +8,7 @@ We use gettext function to make pmt.mcpe.me to multi-language supported. `.po` f
 ### How to convert `.po` to `.mo`
 We don't totally request you to summit `.mo` file to us, but we hope you can help us if you have the ability.
 
-You can use **[Poedit](https://poedit.net/)** to help you to translate the '.po' file. The '.mo' file will be auto-generated when you save the '.po' file.
+You can use **[Poedit](https://poedit.net/)** to help you to translate the `.po` file. The `.mo` file will be auto-generated when you save the `.po` file.
 
 If you're using Linux OS, you can use `msgfmt` command to convert `.po` into `.mo` or merge it to the old version of the translation.
 Here is the usage:
