@@ -3,33 +3,33 @@
 ## English
 We hope that you can help translating pmt.mcpe.me into your locale for us.
 
-We use gettext function to make pmt.mcpe.me to multi-language supported. '.po' file is used for translating, '.mo' file is for our system to read the translations. In the **_Translation templates** folder, there is a file which the filename extension is '.pot'. That is a language template for you to translate the language inside.
+We use gettext function to make pmt.mcpe.me to multi-language supported. `.po` file is used for translating, `.mo` file is for our system to read the translations. In the **_Translation templates** folder, there is a file which the filename extension is `.pot`. That is a language template for you to translate the language inside.
 
-## How to translate
-We don't totally request you to summit a translation to us, but we hope you can help us if you have the ability.
+### How to convert `.po` to `.mo`
+We don't totally request you to summit `.mo` file to us, but we hope you can help us if you have the ability.
 
 You can use **[Poedit](https://poedit.net/)** to help you to translate the '.po' file. The '.mo' file will be auto-generated when you save the '.po' file.
 
-If you're using Linux OS, 
-you can use 'msgfmt' command to convert '.po' into '.mo' or merge it to the old version of the translation. Here is the usage:
-* Convert: 'msgfmt -o Filename.mo Filename.po'
-* Merge: 'msgmerge -o (FilenameAfterMerge).po (OldFile).po (NewFile).po'
+If you're using Linux OS, you can use `msgfmt` command to convert `.po` into `.mo` or merge it to the old version of the translation.
+Here is the usage:
+* Convert: `msgfmt -o Filename.mo Filename.po`
+* Merge: `msgmerge -o (FilenameAfterMerge).po (OldFile).po (NewFile).po`
 
-### Attention! You also need to create a folder named 'LC_MESSAGES' in the language folder.
+### Attention! You also need to create a folder named `LC_MESSAGES` in the language folder.
 
 
-## ÁcÅé¤¤¤å
-§Ú­ÌÀH®ÉÅwªï±z¬° pmt.mcpe.me °^ÄmÂ½Ä¶¡I
+## ç¹é«”ä¸­æ–‡
+æˆ‘å€‘éš¨æ™‚æ­¡è¿æ‚¨ç‚º pmt.mcpe.me è²¢ç»ç¿»è­¯ï¼
 
-§Ú­Ì¬O±Ä¥Î gettext ¨Ó»s§@¦h°ê»y¨¥¡A`.po` ÀÉ¬°Â½Ä¶¥Î¡A`.mo` ÀÉ¬°¨t²ÎÅª¨ú¥Î¡A¦b **_Translation templates** ¸ê®Æ§¨¤º¦³°ÆÀÉ¦W¬° `.pot` ªº¤å¥ó¡A¨º¬O»y¨¥¼ÒªO¡A¥i§Q¥Î `.pot` ÀÉ³Ğ«Ø·s»y¨¥¡C
+æˆ‘å€‘æ˜¯æ¡ç”¨ gettext ä¾†è£½ä½œå¤šåœ‹èªè¨€ï¼Œ`.po` æª”ç‚ºç¿»è­¯ç”¨ï¼Œ`.mo` æª”ç‚ºç³»çµ±è®€å–ç”¨ï¼Œåœ¨ **_Translation templates** è³‡æ–™å¤¾å…§æœ‰å‰¯æª”åç‚º `.pot` çš„æ–‡ä»¶ï¼Œé‚£æ˜¯èªè¨€æ¨¡æ¿ï¼Œå¯åˆ©ç”¨ `.pot` æª”å‰µå»ºæ–°èªè¨€ã€‚
 
-### ¦p¦ó½sÄ¶
-§Ú­Ì¤£­n¨D±z¤@©w­n½sÄ¶Â½Ä¶ÀÉ¡A¦ı§Æ±æ±z¯à½sÄ¶§¹¦A´£¥æ¡C
+### å¦‚ä½•ç·¨è­¯
+æˆ‘å€‘ä¸è¦æ±‚æ‚¨ä¸€å®šè¦ç·¨è­¯ç¿»è­¯æª”ï¼Œä½†å¸Œæœ›æ‚¨èƒ½ç·¨è­¯å®Œå†æäº¤ã€‚
 
-Â½Ä¶ `.po` ¤å¥ó®É¥i¥H§Q¥Î **[Poedit](https://poedit.net/)** ³o­Ó³nÅé¶i¦æÂ½Ä¶¡A¦sÀÉ«á·|¦Û°Ê½sÄ¶¦¨ `.mo` ¤å¥ó¡C
+ç¿»è­¯ `.po` æ–‡ä»¶æ™‚å¯ä»¥åˆ©ç”¨ **[Poedit](https://poedit.net/)** é€™å€‹è»Ÿé«”é€²è¡Œç¿»è­¯ï¼Œå­˜æª”å¾Œæœƒè‡ªå‹•ç·¨è­¯æˆ `.mo` æ–‡ä»¶ã€‚
 
-Linux §@·~¨t²ÎÁÙ¥i¥H©ó²×ºİ±N `.po` ¤å¥ó½sÄ¶¦¨ `.mo` ¤å¥ó©Î¦X¨ÖÂÂ¦³ªºÂ½Ä¶¡A¥Îªk¦p¤U¡G
-* ½sÄ¶¡G `msgfmt -o ¤å¥ó¦WºÙ.mo ¤å¥ó¦WºÙ.po`
-* ¦X¨ÖÂ½Ä¶¡G `msgmerge -o ¦X¨Ö§¹­n¦sªºÀÉ¦W.po ­n¸ò·sÀÉ¦X¨Öªº.po ·sªºÀÉ®×.po`
+Linux ä½œæ¥­ç³»çµ±é‚„å¯ä»¥æ–¼çµ‚ç«¯å°‡ `.po` æ–‡ä»¶ç·¨è­¯æˆ `.mo` æ–‡ä»¶æˆ–åˆä½µèˆŠæœ‰çš„ç¿»è­¯ï¼Œç”¨æ³•å¦‚ä¸‹ï¼š
+* ç·¨è­¯ï¼š `msgfmt -o æ–‡ä»¶åç¨±.mo æ–‡ä»¶åç¨±.po`
+* åˆä½µç¿»è­¯ï¼š `msgmerge -o åˆä½µå®Œè¦å­˜çš„æª”å.po è¦è·Ÿæ–°æª”åˆä½µçš„.po æ–°çš„æª”æ¡ˆ.po`
 
-### ½Ğª`·N¡A¦b»y¨t¸ê®Æ§¨¤ºÁÙ­n³Ğ«Ø `LC_MESSAGES` ¸ê®Æ§¨¡C
+### è«‹æ³¨æ„ï¼Œåœ¨èªç³»è³‡æ–™å¤¾å…§é‚„è¦å‰µå»º `LC_MESSAGES` è³‡æ–™å¤¾ã€‚
