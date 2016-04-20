@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pmt.mcpe.me page Languages\n"
 "POT-Creation-Date: 2016-04-16 16:34+0800\n"
-"PO-Revision-Date: 2016-04-17 12:57+0800\n"
+"PO-Revision-Date: 2016-04-20 19:17+0800\n"
 "Language-Team: pmt.mcpe.me management organization <admin@pmt.mcpe.me>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,34 +16,36 @@ msgstr ""
 
 #: phar.php:6
 msgid "Create phar"
-msgstr "PHAR打包器"
+msgstr "創建Phar"
 
 #: phar.php:14
 msgid "Phar maker"
-msgstr "PHAR打包器"
+msgstr "Phar打包器"
 
 #: phar.php:15
 msgid "How to use"
-msgstr "使用說明:"
+msgstr "使用說明"
 
 #: phar.php:17
 msgid "Write your plugin, of course :D"
-msgstr "先寫好你的插件 :D"
+msgstr "當然，先寫好你的插件 :D"
 
 #: phar.php:18
 msgid "Put your files in the correct structure (according to namespaces, etc.)"
-msgstr "將你的文件整理成正確的結構"
+msgstr "將你的文件整理成正確的結構（根據命名空間，等等...）"
 
 #: phar.php:19
 msgid ""
 "Create a ZIP file and throw your structure into it. You can put it anywhere "
 "inside the ZIP file, but only the folder with plugin.yml (and subfolders) "
 "will be included."
-msgstr "創建一個ZIP壓縮文件將你的文件放進去"
+msgstr ""
+"創建一個ZIP壓縮文件並將你的文件放進去，但只有plugin.yml （和子文件夾）的文件"
+"夾包括在內。"
 
 #: phar.php:20
 msgid "Upload that file below :)"
-msgstr "最後,上傳您的ZIP壓縮檔開始打包"
+msgstr "最後,上傳您的ZIP壓縮檔開始打包 :)"
 
 #: phar.php:24
 msgid "Stub (Leave as default unless you know what it is):"
@@ -98,8 +100,8 @@ msgid ""
 "New: use the frames page <a href=\"pm.php\" target=\"_parent\">here</a> if "
 "you are not already using."
 msgstr ""
-"新功能：使用框架的網頁。<a href=\"pm.php\" target=\"_parent\">這裡</a>如果你"
-"還沒有使用"
+"新功能：使用框架頁。<a href=\"pm.php\" target=\"_parent\">這裡</a>如果你還沒"
+"有使用"
 
 #: phar.php:48
 msgid ""

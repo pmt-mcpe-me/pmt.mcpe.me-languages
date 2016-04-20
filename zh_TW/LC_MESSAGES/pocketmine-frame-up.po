@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pmt.mcpe.me page Languages\n"
 "POT-Creation-Date: 2016-04-17 09:33+0800\n"
-"PO-Revision-Date: 2016-04-17 09:48+0800\n"
+"PO-Revision-Date: 2016-04-20 19:21+0800\n"
 "Language-Team: pmt.mcpe.me management organization <admin@pmt.mcpe.me>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,11 +17,11 @@ msgstr ""
 
 #: pocketmine-frame-up.php:9
 msgid "PocketMine Plugin Making Tools"
-msgstr "PocketMine 插件開發網"
+msgstr "PocketMine 插件開發工具"
 
 #: pocketmine-frame-up.php:12
 msgid "PocketMine-MP Plugin Making Tools"
-msgstr "PocketMine-MP 插件開發網"
+msgstr "PocketMine-MP 插件開發工具"
 
 #: pocketmine-frame-up.php:15
 msgid ""
@@ -40,7 +40,7 @@ msgid ""
 "\"_blank\">the issue tracker</a>.\n"
 "\tWhen you create a report, please provide as much information as possible."
 msgstr ""
-"請隨時報告任何bug\n"
+"請隨時報告任何bug \n"
 "\t<a href=\"https://github.com/PEMapModder/web-server-source/issues\" target="
 "\"_blank\">回報問題</a>.\n"
 "\t請盡可能提供資訊以供參考及修復"
